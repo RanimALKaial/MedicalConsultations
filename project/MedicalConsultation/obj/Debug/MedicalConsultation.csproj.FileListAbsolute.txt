@@ -1,0 +1,165 @@
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\csc.exe
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\vbc.exe
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll.config
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.pdb
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csprojResolveAssemblyReference.cache
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\مركز_S18\مقبولة\مظهر\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.pdb
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\csc.exe
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Collections.Immutable.dll
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Reflection.Metadata.dll
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\vbc.exe
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe.config
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll.config
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.pdb
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csprojResolveAssemblyReference.cache
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.dll
+E:\مجلدي\جامعة الافتراضية\مركز_S18\جاهزة\15-مظهر\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.pdb
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\csc.exe
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\vbc.exe
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll.config
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.pdb
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\FusionCharts.Visualization.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.pdb
+C:\Users\Mega Soft\Desktop\projects\مشروع تميم\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csprojResolveAssemblyReference.cache
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\csc.exe
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\vbc.exe
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll.config
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.pdb
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csprojResolveAssemblyReference.cache
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\مشروع تميم\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.pdb
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\csc.exe
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\vbc.exe
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll.config
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.pdb
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csprojResolveAssemblyReference.cache
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\projects\غنوة\PROJECT\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.pdb
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\csc.exe
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\vbc.exe
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll.config
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.pdb
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csprojResolveAssemblyReference.cache
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.dll
+C:\Users\Mega Soft\Desktop\projects\projects\مشاريع جاهزة\7-غنوة\PROJECT\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.pdb
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll.config
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.pdb
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csproj.CopyComplete
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.dll
+C:\Users\ASUS\Desktop\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.pdb
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll.config
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.dll
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\MedicalConsultation.pdb
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.csproj.CopyComplete
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.dll
+C:\Users\ASUS\Desktop\مشاريع\project2\project2\MedicalConsultation\MedicalConsultation\obj\Debug\MedicalConsultation.pdb

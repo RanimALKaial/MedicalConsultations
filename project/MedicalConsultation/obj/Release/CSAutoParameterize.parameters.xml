@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MedicalConsultation.Properties.Settings.con-Web.config Connection String" description="MedicalConsultation.Properties.Settings.con Connection String used in web.config by the application to access the database." defaultValue="Data Source=den1.mssql8.gear.host;Initial Catalog=medicaldb2;User ID=medicaldb2;Password=Ze0yDqb_~aUG" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Mega\ Soft\\Desktop\\projects\\projects\\مشاريع\ جاهزة\\7-غنوة\\PROJECT\\MedicalConsultation\\MedicalConsultation\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MedicalConsultation.Properties.Settings.con']/@connectionString" />
+  </parameter>
+</parameters>
